@@ -1,4 +1,4 @@
-package com.devsuperior.bds02.dto.controllers;
+package com.devsuperior.bds02.controllers;
 
 import org.springframework.stereotype.Controller;
 
